@@ -5,3 +5,5 @@ The 'A naturalistic fMRI dataset in response to public speaking' dataset present
 #For reproducibility, we include all rating results of participants to four videos about 18 questions in the #Behavioral Score.xlsx#
 
 #All details about the 30 candidate videos including 2 video stimuli during fMRI experiments are presented in #videos_information.docx#
+
+#Transcripts with timestamps of two videos used in study is provided in 'What's wrong with our design.srt' and 'Bigger.srt'#
